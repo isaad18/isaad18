@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-**✨ Imad Saad ✨
+Imad Saad's GitHub
