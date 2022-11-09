@@ -1,7 +1,7 @@
 ## Hey there 👋 welcome I'm [Imad Saad!](https://github.com/isaad18/)
 
 
-<a href="https://app.daily.dev/isaad18"><img src="https://api.daily.dev/devcards/373cd6c9f709488bab5bdeec5a3635da.png?r=53n" width="400" alt="Imad Saad's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/isaad18"><img src="https://api.daily.dev/devcards/373cd6c9f709488bab5bdeec5a3635da.png?r=53n" width="400" alt="Imad Saad's Dev Card"/></a> -->
 
 ### Languages and Tools:
 
