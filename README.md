@@ -1,5 +1,6 @@
 ## Hey there 👋 welcome I'm [Imad Saad!](https://github.com/isaad18/)
 
+[![isaad's 42 stats](https://badge42.vercel.app/api/v2/cleqp4zk700060fjuihq85vd0/stats?cursusId=21&coalitionId=152)](https://github.com/JaeSeoKim/badge42)
 
 <!-- <a href="https://app.daily.dev/isaad18"><img src="https://api.daily.dev/devcards/373cd6c9f709488bab5bdeec5a3635da.png?r=53n" width="400" alt="Imad Saad's Dev Card"/></a> -->
 
